@@ -16,8 +16,9 @@ I am **Bipul Jaiswal** aka **r3curs1v3_pr0xy** a Cyber Security Enthusiast 💻 
 - ✔️ OSINT <br>
 - ✔️ Linux<br>
 <br>
- <img src="https://github-readme-stats.vercel.app/api?username=r3curs1v3_pr0xy&theme=merko&show_icons=true" align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=r3curs1v3-pr0xy&theme=merko&show_icons=true" align="center">
 <br>
+
 ### Find me around the world 🌍
 
 [![Twitter Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=%40r3curs1v3_pr0xy&logo=twitter&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fr3curs1v3_pr0xy)](https://twitter.com/r3curs1v3_pr0xy) [![Linkedin Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=BIPUL%20JAISWAL&logo=LinkedIn&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbipul-jaiswal-167220191%2F)](https://www.linkedin.com/in/bipul-jaiswal-167220191/) [![Instagram](https://img.shields.io/twitter/url?color=1ca0f1&label=r3curs1v3_pr0xy&logo=Instagram&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fr3curs1v3_pr0xy%2F)](https://www.instagram.com/r3curs1v3_pr0xy/)

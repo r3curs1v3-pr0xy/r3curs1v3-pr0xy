@@ -7,9 +7,9 @@ I am **Bipul Jaiswal** aka **r3curs1v3_pr0xy** a Cyber Security Enthusiast 💻 
  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="30%" align="right">
  </p>
  <br><br>
-### My skillset 🔧
-- ✔️ Web Application Penetration Testing 
--  ✔️Playing CTFs and Hacking related challenges
+## My skillset 🔧
+- ✔️ Web Application Penetration Testing <br>
+-  ✔️Playing CTFs and Hacking related challenges<br>
 - ✔️ Creating CTF challenges(Forensics and Web)
 - ✔️ Networking 
 - ✔️ Python , Javascript , NodeJS  , PHP , C/C++

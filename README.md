@@ -16,9 +16,7 @@ I am **Bipul Jaiswal** aka **r3curs1v3_pr0xy** a Cyber Security Enthusiast 💻 
 - ✔️ OSINT <br>
 - ✔️ Linux<br>
 <br>
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=merko&theme=merko&show_icons=true" align="center">
-</p>
+ <img src="https://github-readme-stats.vercel.app/api?username=r3curs1v3_pr0xy&theme=merko&show_icons=true" align="center">
 <br>
 ### Find me around the world 🌍
 

@@ -4,7 +4,7 @@
 
 I am **Bipul Jaiswal** aka **r3curs1v3_pr0xy** a Cyber Security Enthusiast 💻 and a Python developer 👨‍💻 , I break into applications for fun and profit , Reported 30+ bugs to 20+ different companies including Dream11, Coda, Sqreen, Capital One and many more . I play CTFs very often as r3curs1v3_pr0xy , I love 💖 doing things for the infosec community , I contribute to community by open sourcing [hacking related tools](https://github.com/r3curs1v3_pr0xy/sub404) and writing [blog posts](https://medium.com/)
  <p align="right">
- <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="25%" align="right">
+ <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="30%" align="right">
  </p>
 <b>My skillset</b> 🔧 <br><br>
 - ✔️ Web Application Penetration Testing <br>

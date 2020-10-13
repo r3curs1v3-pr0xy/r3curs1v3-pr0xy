@@ -1,8 +1,8 @@
 #  Bipul Jaiswal 👨‍💻
 
-## 👽 Hello Worlld!; <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">
+## 👽 Hello World!; <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">
 
-I am a Cyber Security Enthusiast 💻 and a Python developer , I break into applications for fun and profit , Reported 300+ bugs to 60+ different companies including tech giants like Google , Facebook , Microsoft  , Dell , Nokia and many more . I play CTFs very often as Asm0d3us , I love 💖 doing things for the infosec community , I contribute to community by opensourcing [hacking related tools](https://portswigger.net/daily-swig/paramspider-new-tool-helps-in-the-discovery-of-url-parameter-vulnerabilities) and writing [blog posts](https://medium.com/@Asm0d3us)
+I am **BIPUL Jaiswal** aka **r3curs1v3_pr0xy** a Cyber Security Enthusiast 💻 and a Python developer👨‍💻 , I break into applications for fun and profit , Reported 300+ bugs to 60+ different companies including tech giants like Google , Facebook , Microsoft  , Dell , Nokia and many more . I play CTFs very often as Asm0d3us , I love 💖 doing things for the infosec community , I contribute to community by opensourcing [hacking related tools](https://portswigger.net/daily-swig/paramspider-new-tool-helps-in-the-discovery-of-url-parameter-vulnerabilities) and writing [blog posts](https://medium.com/@Asm0d3us)
 
 ### My skillset 🔧
 - ✔️ Web Application Penetration Testing 
